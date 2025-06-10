@@ -14,7 +14,7 @@
                 <a href="index.html">Beranda</a>
                 <a href="aboutme.html">Kegiatan</a>
                 <a href="courses.html">Artikel</a>
-                <a href="faqs.html">Donasi</a>
+                <a href="faqs.html">Infaq</a>
                 <a href="faqs.html">Contact</a>
             </div>
         </nav>
@@ -43,5 +43,35 @@
 
 <script src="script.js"></script>
 
+<footer class="footer">
+        <div class="footer-container">
+            <div class="footer-section about">
+                <img src="" alt="Logo" class="footer-logo" />
+                <h3>Alamat</h3>
+                <p>Perumahan Villa Panam Jl. Melur, Sidomulyo Barat, Tampan, Pekanbaru City, Riau 28294</p>
+            </div>
+
+            <div class="footer-section links">
+                <h3>Menu</h3>
+                <ul>
+                    <li><a href="index.html">Beranda</a></li>
+                    <li><a href="aboutme.html">Kegiatan</a></li>
+                    <li><a href="courses.html">Artikel</a></li>
+                    <li><a href="faqs.html">Infaq</a></li>
+                    <li><a href="faqs.html">Kontak</a></li>
+                </ul>
+            </div>
+
+            <div class="footer-section contact">
+                <h3>Kontak</h3>
+                <p>Email: masjid@gmail.com</p>
+                <p>Telepon: +62 822 8364 2511</p>
+                
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; 2025 Masjid Baitul Hikmah. All rights reserved.</p>
+        </div>
+    </footer>
 </body>
 </html>
