@@ -65,7 +65,7 @@
             <div class="footer-section contact">
                 <h3>Kontak</h3>
                 <p>Email: masjid@gmail.com</p>
-                <p>Telepon: +62 822 8364 2511</p>
+                <p>Telepon: +62 822 8712 0755</p>
                 
             </div>
         </div>
